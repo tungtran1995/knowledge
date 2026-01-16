@@ -47,10 +47,9 @@ Cụ thể là quyết định:
 
 ---
 
-## 1.3 3 lớp Measurement – nền tảng bắt buộc phải dạy
+## 1.3 3 lớp Measurement
 
-Một trong những lỗi lớn nhất là trộn lẫn các loại metric. Principal FE bắt buộc phải dạy rõ 3 lớp này.
-
+Một trong những lỗi lớn nhất là trộn lẫn các loại metric
 ### 1️⃣ Lab Metrics – để debug
 
 **Đặc điểm:**
